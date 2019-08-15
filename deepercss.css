@@ -1,0 +1,22 @@
+
+.second{
+    background-color: blueviolet;
+    height: 20%;
+    width:100%;
+}
+
+.flex-box{
+    display: flex;
+}
+
+.third{
+    background-color: orange;
+    height: 40%;
+    width: 100%;
+}
+
+ .main{
+        background-color: yellow;
+        height:40%;
+        width: 26%;
+    }
